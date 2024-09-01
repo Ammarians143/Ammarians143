@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Ammarians143
+- 👋 Hi, i'm Ammar Ansari
 hello world
